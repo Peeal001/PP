@@ -1,0 +1,77 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Noto Serif', serif;
+  font-size:200%;
+}
+h1{
+  font-size:5.625em;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: red;
+}
+h5{
+  font-family:'Noto Serif', serif;
+  color: black;
+  text-align:center;
+}
+h3{
+font-family: 'Noto Serif', serif;
+}
+.top-container {
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top:100px;
+
+}
+.pro{
+  text-decoration: underline;
+  color:red;
+}
+.para{
+  color:red;
+}
+.top-position{
+  position:absolute;
+  right:300px;
+  top:50px;
+
+}
+
+
+.bottom-position{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+.peealphoto{
+position: relative;
+padding-right:10px;
+}
+.osam{
+  border-radius: 900px;
+  position:absolute;
+  left:300px;
+}
+.box-container{
+  position:absolute;
+  top:300px;
+  right:100px;
+  font-size: 40%;
+  text-align: left;
+  color:#1E90FF;
+  font-family: 'Noto Serif', serif;
+}
+.textbox{
+  border: 3px solid #5681A2;
+  border-radius:20px;
+}
+.emailbox{
+  border: 2px solid #5681A2;
+  border-radius:20px;
+}
+.namebox{
+  border: 2px solid #5681A2;
+  border-radius:20px;
+
+}
